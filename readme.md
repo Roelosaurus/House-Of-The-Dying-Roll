@@ -7,8 +7,9 @@
   
 **EXECUTE THE DIVINE KING'S COMMANDMENT:**  
 **PROTECT THE LOYAL LORDS AND BRING FREEDOM TO THEIR PEOPLE.**  
-  
-<br/><br/><br/>
+
+<br/><br/>
+
 ## The Royal Guard's Assignemnt
   
 As a Royal Guard of the Holy King you will infiltrate the Emperor's Stronghold and assassinate him.  
