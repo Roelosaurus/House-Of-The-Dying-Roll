@@ -7,3 +7,8 @@ AND A TRUE KING SHALL SIT UPON THE THRONE.
   
 EXECUTE THE KING'S COMMANDMENT:  
 PROTECT THE LOYAL LORDS AND BRING FREEDOM TO THEIR PEOPLE.  
+  
+  
+## Lord Creation  
+  
+As a Lord of the King you will attack the Emperor's Stronghold and assassinate him.
