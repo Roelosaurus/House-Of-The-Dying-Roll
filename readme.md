@@ -15,11 +15,10 @@
 As a Royal Guard of our Holy King you will infiltrate the Emperor's Stronghold and assassinate him.  
 Either by brute force or sly cunning you must get to the sinful Emperor, whatever the cost.  
   
+## Using Sacred Equipment  
+  
 Every member of the Royal Guard is equiped with:  
 1. a blessed armament
 2. a sanctified armor
 3. a zealous belief in our Hallowed King
-
-## Using Sacred Equipment  
   
-
