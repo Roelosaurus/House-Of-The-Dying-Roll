@@ -13,7 +13,7 @@
 ## The Royal Guard's Assignemnt
   
 As a Royal Guard of our Holy King you will infiltrate the Emperor's Stronghold and assassinate him.  
-Either by brute force or sly cunning you must get to the Emperor, whatever the cost.  
+Either by brute force or sly cunning you must get to the sinful Emperor, whatever the cost.  
   
 Every member of the Royal Guard is equiped with:  
 1. a blessed armament
