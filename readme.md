@@ -23,8 +23,8 @@ Class    | Force | Wisdom | Sacrifice
 Champion |   6   |    1   | Tongue
 Paladin  |   5   |    2   | Eye
 Templar  |   4   |    3   | Ears
-Crusader |   3   |    4   | Non-dom. Hand
-Cleric   |   2   |    5   | Dom. Hand
+Crusader |   3   |    4   | Non-dom. hand
+Cleric   |   2   |    5   | Dom. hand
 Zealot   |   1   |    6   | Arm
   
 ### • Using Sacred Equipment  
