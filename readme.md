@@ -20,12 +20,10 @@ Either by brute force, insightfull wisdom or divine intervention you must get to
 
 Class    | Force | Wisdom | Sacrifice
 -------- | :---: | :----: | :-------:
-Champion |   6   |    1   | Tongue
-Paladin  |   5   |    2   | Eye
-Templar  |   4   |    3   | Ears
-Crusader |   3   |    4   | Non-dom. hand
-Cleric   |   2   |    5   | Dom. hand
-Zealot   |   1   |    6   | Arm
+Paladin  |   5   |    2   | Tongue
+Templar  |   4   |    3   | Eye
+Crusader |   3   |    4   | Hand
+Cleric   |   2   |    5   | Arm
   
 ### • Using Sacred Equipment  
   
