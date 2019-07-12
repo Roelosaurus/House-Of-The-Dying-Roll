@@ -18,7 +18,7 @@ Either by brute force or sly cunning you must get to the sinful Emperor, whateve
 ### • Using Sacred Equipment  
   
 Every member of the Royal Guard is equiped with:  
-1. a blessed armament
-2. a sanctified armor
-3. a zealous belief in our Hallowed King
+1. Blessed Armament
+2. Sanctified Armor
+3. Zealous belief in our Hallowed King
   
