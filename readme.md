@@ -18,4 +18,4 @@ Either by brute force or sly cunning you must get to the Emperor.
 Every member of the Royal Guard is equiped with:  
 1. a blessed weapon
 2. a sanctified armor
-3. a zealous belief in your Hallowed King.
+3. a zealous belief in your Hallowed King
