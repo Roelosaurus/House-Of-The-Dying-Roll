@@ -13,18 +13,18 @@
 ### • The Royal Guard's Assignemnt
   
 As a Royal Guard of our Holy King you will infiltrate the Emperor's Stronghold and assassinate him.  
-Either by brute force, insightfull wisdom or divine intervention you must get to the sinful Emperor, whatever the cost.  
+Either by brute force, insightfull wisdom or divine intervention you must get to the sinful Emperor; whatever the cost.  
 
 ### • Clerical Classes
 
-Name     | Force | Wisdom | Believe
--------- | :---: | :----: | :-----:
-Champion | X     | X      | X
-Knight   | X     | X      | X
-Paladin  | X     | X      | X
-Crusader | X     | X      | X
-Templar  | X     | X      | X
-Zealot   | X     | X      | X
+Class    | Force | Wisdom 
+-------- | :---: | :----: 
+Champion | 6     | 1
+Knight   | 5     | 2
+Paladin  | 4     | 3
+Templar  | 3     | 4
+Crusader | 2     | 5
+Zealot   | 1     | 6
   
 ### • Using Sacred Equipment  
   
