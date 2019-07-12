@@ -13,6 +13,7 @@
 ### • The Royal Guard's Assignemnt
   
 As a Royal Guard of our Holy King you will infiltrate the Emperor's Stronghold and assassinate him.  
+The Stronghold is build to withstand vigorous attacks and the Emporer will be well guarded by his loyal Dragons.
 Either by brute force, insightfull wisdom or divine intervention you must get to the sinful Emperor; whatever the cost.  
 
 ### • Guard Classes
