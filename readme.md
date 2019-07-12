@@ -20,6 +20,6 @@ Every member of the Royal Guard is equiped with:
 2. a sanctified armor
 3. a zealous belief in our Hallowed King
 
-## Using Sacret Equipment  
+## Using Sacred Equipment  
   
 
