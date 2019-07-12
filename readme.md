@@ -1,5 +1,3 @@
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
-
 # House Of The Dying Roll
   
 **THE EMPEROR MUST DIE.**  
