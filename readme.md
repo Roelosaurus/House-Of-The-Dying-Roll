@@ -6,14 +6,14 @@
 **AND THE TRUE KING SHALL SIT UPON THE THRONE.**  
   
 **EXECUTE THE DIVINE KING'S COMMANDMENT:**  
-**PROTECT THE LOYAL LORDS AND BRING FREEDOM TO THEIR PEOPLE.**  
+**END THE CORRUPT EMPEROR AND BRING FREEDOM TO OUR PEOPLE.**  
 
 <br/><br/>
 
 ## The Royal Guard's Assignemnt
   
 As a Royal Guard of the Holy King you will infiltrate the Emperor's Stronghold and assassinate him.  
-Either by brute force or sly cunning you must get to the Emperor.  
+Either by brute force or sly cunning you must get to the Emperor, at whatever cost.  
   
 Every member of the Royal Guard is equiped with:  
 1. a blessed weapon
