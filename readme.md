@@ -13,23 +13,23 @@
 ### • The Royal Guard's Assignemnt
   
 As a Royal Guard of our Holy King you will infiltrate the Emperor's Stronghold and assassinate him.  
-With brute force and divine intervention you must get to the sinful Emperor, whatever the cost.  
+Either by brute force, insightfull wisdom or divine intervention you must get to the sinful Emperor, whatever the cost.  
 
 ### • Clerical Classes
 
-Name | Force | Believe
----- | :---: | :-----:
-Paladin | 5 | 2
-Templar| 4 | 3
-Crusader | 3 | 4
-Zealot | 2 | 5
-
-
+Name     | Force | Wisdom | Believe
+-------- | :---: | :----: | :-----:
+Champion | X     | X      | X
+Knight   | X     | X      | X
+Paladin  | X     | X      | X
+Crusader | X     | X      | X
+Templar  | X     | X      | X
+Zealot   | X     | X      | X
   
 ### • Using Sacred Equipment  
   
 Every member of the Royal Guard is equiped with:  
-1. Blessed Armament
-2. Sanctified Armor
+1. Blessed Warhammer
+2. Sanctified Plated Armor
 3. Zealous belief in our Hallowed King
   
