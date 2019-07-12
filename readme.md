@@ -15,16 +15,16 @@
 As a Royal Guard of our Holy King you will infiltrate the Emperor's Stronghold and assassinate him.  
 Either by brute force, insightfull wisdom or divine intervention you must get to the sinful Emperor; whatever the cost.  
 
-### • Clerical Classes
+### • Guard Classes
 
 Class    | Force | Wisdom 
 -------- | :---: | :----: 
-Champion | 6     | 1
-Knight   | 5     | 2
-Paladin  | 4     | 3
-Templar  | 3     | 4
-Crusader | 2     | 5
-Zealot   | 1     | 6
+Champion |   6   |   1
+Paladin  |   5   |   2
+Templar  |   4   |   3
+Crusader |   3   |   4
+Cleric   |   2   |   5
+Zealot   |   1   |   6
   
 ### • Using Sacred Equipment  
   
