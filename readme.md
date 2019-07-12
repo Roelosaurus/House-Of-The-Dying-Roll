@@ -20,15 +20,15 @@ Either by brute force, insightfull wisdom or divine intervention you must get to
 
 Class    | Force | Wisdom | Sacrifice
 -------- | :---: | :----: | :-------:
-Paladin  |   5   |    2   | Tongue
-Templar  |   4   |    3   | Eye
-Crusader |   3   |    4   | Hand
+Knight   |   5   |    2   | Tongue
+Paladin  |   4   |    3   | Eye
+Templar  |   3   |    4   | Hand
 Cleric   |   2   |    5   | Arm
   
 ### • Using Sacred Equipment  
   
 Every member of the Royal Guard is equiped with:  
-1. Blessed Warhammer
+1. Blessed War-Hammer
 2. Sanctified Plated Armor
 3. Zealous belief in our Hallowed King
   
