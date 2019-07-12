@@ -1,6 +1,3 @@
-<span style="font-family: 'UnifrakturMaguntia', cursive;">This is 'UnifrakturMaguntia'</span>
-
-
 # House Of The Dying Roll
   
 **THE EMPEROR MUST DIE.**  
