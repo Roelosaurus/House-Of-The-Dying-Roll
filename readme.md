@@ -8,7 +8,7 @@
 **EXECUTE THE DIVINE KING'S COMMANDMENT:**  
 **END THE CORRUPT EMPEROR AND BRING FREEDOM TO THE PEOPLE.**  
 
-<br/><br/>
+<br/>
 
 ### • The Royal Guard's Assignemnt
   
