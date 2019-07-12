@@ -1,3 +1,5 @@
+<link rel="icon" href="/crown.ico" type="image/x-icon" />
+
 THE EMPEROR MUST DIE.  
   
 THE ROYAL GUARD HAS BEEN DEPLOYED  
