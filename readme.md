@@ -53,6 +53,6 @@ ROLL |  CLASS   | DIVINE NEED
 ### • Emperor's Stronghold
  
 The Stronghold is made up out of 3 compartments:  
-⋅⋅⋅ - Breached entrance
-⋅⋅⋅ - Dragonling baracks
-⋅⋅⋅ - Emperor's throneroom
+1. Breached entrance  
+2. Dragonling baracks  
+3. Emperor's throneroom
