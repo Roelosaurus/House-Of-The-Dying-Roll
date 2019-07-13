@@ -29,7 +29,7 @@ you must get to the sinful Emperor; whatever the cost.
 ### • Guard Classes
 
 CLASS    | DIVINE NEED
--------- | :---------:
+-------- | -----------
 Champion | Spill blood for the King
 Knight   | Make an enemy of the King suffer
 Paladin  | Protect the King
