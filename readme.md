@@ -40,7 +40,7 @@ Templar  | Make a sacrifice for the King
 ### • Sacred Equipment  
 
 Every member of the Royal Guard is equiped with:  
-1. Blessed Armament (3 HITS)
+1. Blessed Armament (3 Hits)
 2. Sanctified Plated Armor (3 HP)
 3. Zealous belief in our Hallowed King (3 Divine Saves)
 
