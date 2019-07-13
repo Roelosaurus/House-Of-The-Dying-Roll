@@ -28,13 +28,14 @@ you must get to the sinful Emperor; whatever the cost.
 
 ### • Guard Classes
 
-CLASS    | DIVINE NEED
--------- | -----------
-Champion | Spill blood for the King
-Knight   | Make an enemy of the King suffer
-Paladin  | Protect the King
-Templar  | Make a sacrifice for the King
-
+ROLL |  CLASS   | DIVINE NEED
+:--: | :------: | -----------
+  1  | Champion | Spill blood for the King
+  2  | Knight   | ???
+  3  | Paladin  | Protect the King
+  4  | Templar  | Make a sacrifice for the King
+  5  | Crusader | Make an enemy of the King suffer
+  6  | Cleric   | ???
 
 
 ### • Sacred Equipment  
@@ -54,3 +55,7 @@ Every member of the Royal Guard is equiped with:
    3   |  X
    4   |  X
  5 & 6 | SUCCESS
+
+
+
+ ### • Emperor's Stronghold
