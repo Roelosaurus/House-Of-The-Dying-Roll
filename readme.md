@@ -1,5 +1,4 @@
-# 
-<img src="https://raw.githubusercontent.com/roelosaurus/house-of-the-dying-roll/master/cover.jpg" width="425">
+# <img src="https://raw.githubusercontent.com/roelosaurus/house-of-the-dying-roll/master/cover.jpg" width="425">
   
 **THE EMPEROR MUST DIE.**  
   
@@ -45,5 +44,8 @@ ROLL | DRAGON
  1   |   X
  2   |   X
  3   |   X
+ 4   |   X
+ 5   |   X
+ 6   |   X
 
 #
