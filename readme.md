@@ -29,7 +29,7 @@ Every member of the Royal Guard is equiped with:
 
 ### • Guard Classes
 
-Class    | Force | Wisdom
+CLASS    | FORCE | WISDOM
 -------- | :---: | :----:
 Knight   |   3   |    1
 Paladin  |   2   |    2
