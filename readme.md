@@ -31,6 +31,14 @@ Every member of the Royal Guard is equiped with:
 
 CLASS    | FORCE | WISDOM
 -------- | :---: | :----:
-Knight   |   3   |    1
-Paladin  |   2   |    2
-Templar  |   1   |    3
+Knight   |   2   |    0
+Paladin  |   1   |    1
+Templar  |   0   |    2
+
+### • Emperor's Stronghold
+
+ROLL | 
+---- | :------
+ 1   |   
+ 2   |   
+ 3   |   
