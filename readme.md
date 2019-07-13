@@ -21,7 +21,7 @@ you must get to the sinful Emperor; whatever the cost.
 
 ### • Sacred Equipment  
 Every member of the Royal Guard is equiped with:  
-1. Blessed War-Hammer
+1. Blessed Armament
 2. Sanctified Plated Armor
 3. Zealous belief in our Hallowed King
 
