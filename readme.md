@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/roelosaurus/house-of-the-dying-roll/master/artwork.jpg" width="425">
+<img src="https://raw.githubusercontent.com/roelosaurus/house-of-the-dying-roll/master/cover.jpg" width="425">
 
 **THE EMPEROR MUST DIE.**  
   
