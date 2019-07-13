@@ -6,15 +6,19 @@
 **AND THE TRUE KING SHALL SIT UPON THE THRONE.**  
   
 **EXECUTE OUR DIVINE KING'S COMMANDMENT:**  
-**END THE CORRUPT EMPEROR AND BRING FREEDOM TO THE PEOPLE.**  
+**END THE CORRUPT EMPEROR**  
+**AND BRING FREEDOM TO THE PEOPLE.**  
 
 <br/>
 
-### • Royal Guard's Assignemnt
+### • Royal Guard's Assignment
   
-The Royal of our Holy King will infiltrate the Emperor's Stronghold and assassinate him.  
-The Stronghold is build to withstand vigorous attacks and the Emporer will be well guarded by his loyal Dragons.  
-Either by brute force, insightfull wisdom or divine intervention you must get to the sinful Emperor; whatever the cost.  
+The Royal of our Holy King will infiltrate  
+the Emperor's Stronghold and assassinate him.  
+The Stronghold is build to withstand vigorous attacks  
+and the Emporer will be well guarded by his loyal Dragons.  
+Either by brute force or insightfull wisdom    
+you must get to the sinful Emperor; whatever the cost.  
 
 ### • Sacred Equipment  
   
@@ -25,10 +29,8 @@ Every member of the Royal Guard is equiped with:
 
 ### • Guard Classes
 
-Class    | Force | Wisdom | Sacrifice
--------- | :---: | :----: | :-------:
-Knight   |   5   |    2   | Tongue
-Paladin  |   4   |    3   | Eye
-Templar  |   3   |    4   | Hand
-Cleric   |   2   |    5   | Arm
-  
+Class    | Force | Wisdom
+-------- | :---: | :----:
+Knight   |   3   |    1
+Paladin  |   2   |    2
+Templar  |   1   |    3
