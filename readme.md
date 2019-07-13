@@ -1,3 +1,5 @@
+# HOUSE OF THE DYING ROLL
+
 <img src="https://raw.githubusercontent.com/roelosaurus/house-of-the-dying-roll/master/cover.jpg" width="425">
   
 **THE EMPEROR MUST DIE.**  
@@ -26,6 +28,7 @@ Every member of the Royal Guard is equiped with:
 3. Zealous belief in our Hallowed King
 
 ### • Guard Classes
+
 CLASS    | FORCE | WISDOM
 -------- | :---: | :----:
 Knight   |   2   |    0
@@ -33,6 +36,7 @@ Paladin  |   1   |    1
 Templar  |   0   |    2
 
 ### • Emperor's Stronghold
+
 ROLL | DRAGON
 ---- | :----:
  1   |   X
