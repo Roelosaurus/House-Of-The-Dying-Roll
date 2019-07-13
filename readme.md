@@ -31,11 +31,11 @@ you must get to the sinful Emperor; whatever the cost.
 ROLL |  CLASS   | DIVINE NEED
 :--: | :------: | -----------
   1  | Champion | Spill blood for the King
-  2  | Knight   | ???
+  2  | Knight   | 
   3  | Paladin  | Protect the King
   4  | Templar  | Make a sacrifice for the King
   5  | Crusader | Make an enemy of the King suffer
-  6  | Cleric   | ???
+  6  | Cleric   | Assist the King perform an action
 
 
 
@@ -50,7 +50,9 @@ ROLL |  CLASS   | DIVINE NEED
 
 
 
- ### * Emperor's Stronghold
+### • Emperor's Stronghold
  
- The Stronghold is made up out of 3 compartments:  
- - 
+The Stronghold is made up out of 3 compartments:  
+⋅⋅⋅ - Breached entrance
+⋅⋅⋅ - Dragonling baracks
+⋅⋅⋅ - Emperor's throneroom
