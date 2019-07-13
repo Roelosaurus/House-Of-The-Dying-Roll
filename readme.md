@@ -38,14 +38,6 @@ ROLL |  CLASS   | DIVINE NEED
   6  | Cleric   | ???
 
 
-### • Sacred Equipment  
-
-Every member of the Royal Guard is equiped with:  
-1. Blessed Armament (3 Hits)
-2. Sanctified Plated Armor (3 HP)
-3. Zealous belief in our Hallowed King (3 Divine Saves)
-
-
 
 ### • Guard's Actions
 
@@ -58,4 +50,7 @@ Every member of the Royal Guard is equiped with:
 
 
 
- ### • Emperor's Stronghold
+ ### * Emperor's Stronghold
+ 
+ The Stronghold is made up out of 3 compartments:  
+ - 
