@@ -35,6 +35,8 @@ Knight   |   2   |    0
 Paladin  |   1   |    1
 Templar  |   0   |    2
 
+
+
 ### • Emperor's Stronghold
 
 ROLL | 
