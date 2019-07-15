@@ -26,15 +26,48 @@ you must get to the sinful Emperor; whatever the cost.
 
 
 
-### • Guard's Actions
+### • Gameplay
 
- ROLL |                  ACTION                | IMPACT
-:---: | -------------------------------------- | :----:
-1 & 2 | Make a sacrifice for the King          | -1HP
+Setup: roll to setup 
+Roll for 
+
+
+
+### • Guard Classes
+
+ CLASS  | SKILL
+:-----: | -----------
+Knight  |  Reroll 1s
+Paladin |  Reroll 2s
+Templar |  Reroll 3s
+
+
+
+### • Guard's Actions (Proposition 1)
+
+Roll 2d6. Resolve both 
+
+ ROLL |   %   |                 ACTION                 |  RESOLUTION
+:---: | :---: |--------------------------------------- | :------------:
+1 & 2 |  33%  | Make a sacrifice for the King          | -1H
+  3   |  17%  | Protect the King                       | -1d next roll
+  4   |  17%  | Assist the King in a non-lethal action | +1d next roll
+5 & 6 |  33%  | Make an enemy of the King suffer       | +1 hit
+
+
+
+### • Guard's Actions (Proposition 2)
+
+Roll 2d6. Subtract highest from lowest number.
+
+ DIFF |                  ACTION                |      IMPACT
+:---: | -------------------------------------- | :----------------:
+  0   | Divine intervention                    | +1 Success & +1HP
+  1   | Make a sacrifice for the King          | +1 Success
   3   | Protect the King                       | -1d next roll
   4   | Assist the King in a non-lethal action | +1d next roll
-5 & 6 | Make an enemy of the King suffer       | +1 hit
-
+5 & 6 | Make an enemy of the King suffer       | +1 Success
+  
 
 
 ### • Emperor's Stronghold
