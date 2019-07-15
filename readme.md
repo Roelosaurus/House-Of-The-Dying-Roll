@@ -45,7 +45,7 @@ you must get to the sinful Emperor; whatever the cost.
 **ROLL 2d6. SUBTRACT HIGHEST FROM LOWEST NUMBER.**  
 **RESOLVE THE DIFFERENCE AS PER TABLE:**
  
- DIFF |                   ACTION               |    RESOLUTION        |   %
+ DIFF |                   ACTION               |    RESOLUTION        | CHANCE
 :---: | -------------------------------------- | -------------------  | -----:
   0   | Divine intervention                    | roll 3d6, choose 2d6 |  17%
   1   | Make a sacrifice for the King          | -1 hp                |  28%
