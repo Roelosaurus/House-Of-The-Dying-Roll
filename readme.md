@@ -46,7 +46,7 @@ you must get to the sinful Emperor; whatever the cost.
 
  DIFF |   %   |                  ACTION                |    RESOLUTION
 :---: | :---: | -------------------------------------- | :----------------:
-  0   |  17%  | Divine intervention                    | +1 Success & +1HP
+  0   |  17%  | Divine intervention                    | Roll 3d6, Choose 2d6 
   1   |  28%  | Make a sacrifice for the King          | -1 HP
   2   |  22%  | Protect the King                       | -1 Next Diff
   3   |  17%  | Assist the King in a non-lethal action | +1 Next Diff
