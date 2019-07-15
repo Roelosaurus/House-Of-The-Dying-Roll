@@ -24,13 +24,13 @@ the Emperor's Stronghold and abolish him.
 The Stronghold is build to withstand vigorous attacks  
 and the Emporer will be well guarded by his loyal Dragonlings.  
 Either by brute force or insightfull wisdom  
-you must get to the sinful Emperor; whatever the cost.  
+you must get to the sinful Emperor; whatever the cost!  
 
 
 
 ## • Gameplay
 
-1. Roll to setup 3 Stronghold compartments.  
+1. Roll to setup 3 Stronghold sections.  
 2. Roll at start of each compartment for King's actions.  
 3. Roll to resolve Guard's actions.
 
@@ -59,7 +59,7 @@ you must get to the sinful Emperor; whatever the cost.
 
 ## • Emperor's Stronghold
  
-The Stronghold is made up out of 3 compartments:  
+The Stronghold is made up out of 3 sections:  
 1. Breached entrance  
 2. Dragonling baracks  
 3. Emperor's throneroom
