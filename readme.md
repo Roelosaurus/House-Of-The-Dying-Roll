@@ -38,21 +38,21 @@ you must get to the sinful Emperor; whatever the cost.
 
 ## • Guard Classes & Actions
 
-- **Knight**: Reroll 1s  
-- **Paladin**: Reroll 2s  
-- **Templar**: Reroll 3s  
+- **Knight**: reroll 1s  
+- **Paladin**: reroll 2s  
+- **Templar**: reroll 3s  
 
 **Roll 2d6. Subtract highest from lowest number.**
 
- DIFF |   %   |                  ACTION                |    RESOLUTION
-:---: | :---: | -------------------------------------- | :----------------:
-  0   |  17%  | Divine intervention                    | Roll 3d6, Choose 2d6 
-  1   |  28%  | Make a sacrifice for the King          | -1 HP
-  2   |  22%  | Protect the King                       | -1 Next Diff
-  3   |  17%  | Assist the King in a non-lethal action | +1 Next Diff
-4 & 5 |  17%* | Make an enemy of the King suffer       | +1 Success
+ DIFF |    %    |                  ACTION                |    RESOLUTION
+:---: | :-----: | -------------------------------------- | :----------------:
+  0   |    17%  | Divine intervention                    | roll 3d6, rhoose 2d6 
+  1   |    28%  | Make a sacrifice for the King          | -1 hp
+  2   |    22%  | Protect the King                       | -1 next diff*
+  3   |    17%  | Assist the King in a non-lethal action | +1 next diff
+4 & 5 |  11%+6% | Make an enemy of the King suffer       | +1 success
 
-&ast;*4=11% & 5=6%*
+&ast;*0-1=1*
 
 
 
