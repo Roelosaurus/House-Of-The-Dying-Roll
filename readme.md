@@ -15,7 +15,7 @@
 
 
 
-### • Royal Guard's Assignment
+## • Royal Guard's Assignment
 
 The Royal Guard and our Holy King will infiltrate  
 the Emperor's Stronghold and abolish him.  
@@ -26,7 +26,7 @@ you must get to the sinful Emperor; whatever the cost.
 
 
 
-### • Gameplay
+## • Gameplay
 
 1. Roll to setup 3 compartments.  
 2. Roll at start of each compartment for King's actions.  
@@ -34,7 +34,7 @@ you must get to the sinful Emperor; whatever the cost.
 
 
 
-### • Guard Classes & Actions
+## • Guard Classes & Actions
 
 - **Knight**: Reroll 1s  
 - **Paladin**: Reroll 2s  
@@ -54,7 +54,7 @@ you must get to the sinful Emperor; whatever the cost.
 
 
 
-### • Emperor's Stronghold
+## • Emperor's Stronghold
  
 The Stronghold is made up out of 3 compartments:  
 1. Breached entrance  
