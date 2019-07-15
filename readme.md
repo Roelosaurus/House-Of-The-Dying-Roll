@@ -44,14 +44,14 @@ you must get to the sinful Emperor; whatever the cost.
 
 **ROLL 2d6. SUBTRACT HIGHEST FROM LOWEST NUMBER.**  
 **RESOLVE THE DIFFERENCE AS PER TABLE:**
-
- DIFF |    %    |                  ACTION                |    RESOLUTION
-:---: | :-----: | -------------------------------------- | :----------------:
-  0   |    17%  | Divine intervention                    | roll 3d6, choose 2d6 
-  1   |    28%  | Make a sacrifice for the King          | -1 hp
-  2   |    22%  | Protect the King                       | -1 next diff*
-  3   |    17%  | Assist the King in a non-lethal action | +1 next diff
-4 & 5 |  11%+6% | Make an enemy of the King suffer       | +1 success
+ 
+ DIFF |                   ACTION               |    RESOLUTION        |   %
+:---: | -------------------------------------- | :------------------- | -----:
+  0   | Divine intervention                    | roll 3d6, choose 2d6 |  17%
+  1   | Make a sacrifice for the King          | -1 hp                |  28%
+  2   | Protect the King                       | -1 next diff*        |  22%
+  3   | Assist the King in a non-lethal action | +1 next diff         |  17%
+4 & 5 | Make an enemy of the King suffer       | +1 success           | 11%+6% 
 
 *&ast; 1-1=**1**, 0-1=**1***
 
