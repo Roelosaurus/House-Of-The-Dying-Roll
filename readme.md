@@ -28,8 +28,11 @@ you must get to the sinful Emperor; whatever the cost.
 
 ### • Gameplay
 
-Setup: roll to setup  
-Roll for 
+1. Roll to setup 3 compartments  
+2. Roll at start of each compartment  
+  + to see what King does
+3. Roll to resolve Guard's actions
+
 
 
 
