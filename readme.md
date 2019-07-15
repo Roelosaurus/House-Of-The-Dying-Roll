@@ -42,7 +42,8 @@ you must get to the sinful Emperor; whatever the cost.
 - **Paladin**: reroll 2s  
 - **Templar**: reroll 3s  
 
-**Roll 2d6. Subtract highest from lowest number.**
+**Roll 2d6. Subtract highest from lowest number.  
+Resolve the difference as per below table.**
 
  DIFF |    %    |                  ACTION                |    RESOLUTION
 :---: | :-----: | -------------------------------------- | :----------------:
