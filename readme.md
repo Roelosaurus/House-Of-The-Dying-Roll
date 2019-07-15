@@ -28,11 +28,9 @@ you must get to the sinful Emperor; whatever the cost.
 
 ### • Gameplay
 
-1. Roll to setup 3 compartments  
-2. Roll at start of each compartment  
-&nbsp; to see what King does
-3. Roll to resolve Guard's actions
-
+1. Roll to setup 3 compartments.  
+2. Roll at start of each compartment for King's actions.  
+3. Roll to resolve Guard's actions.
 
 
 
@@ -71,7 +69,7 @@ Roll 2d6. Subtract highest from lowest number.
 
 
 
-### + Emperor's Stronghold
+### • Emperor's Stronghold
  
 The Stronghold is made up out of 3 compartments:  
 1. Breached entrance  
