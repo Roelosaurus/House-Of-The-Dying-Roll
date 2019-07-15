@@ -28,7 +28,7 @@ you must get to the sinful Emperor; whatever the cost.
 
 ## • Gameplay
 
-1. Roll to setup 3 compartments.  
+1. Roll to setup 3 Stronghold compartments.  
 2. Roll at start of each compartment for King's actions.  
 3. Roll to resolve Guard's actions.
 
