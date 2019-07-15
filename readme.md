@@ -26,24 +26,14 @@ you must get to the sinful Emperor; whatever the cost.
 
 
 
-### • Guard Classes
-
-ROLL |  CLASS   | DIVINE NEED
-:--: | :------: | -----------
-  1  | Champion | Spill blood for the King
-  2  | Knight   | 
-  3  | Paladin  | Protect the King
-  4  | Templar  | Make a sacrifice for the King
-  5  | Crusader | Make an enemy of the King suffer
-  6  | Cleric   | Assist the King perform an action
-
-
-
 ### • Guard's Actions
 
- DICE  | RESULT
-:----: | :----:
-  Xd6  |  1s = Success
+ ROLL |                  ACTION                | IMPACT
+:---: | -------------------------------------- | :----:
+1 & 2 | Make a sacrifice for the King          | -1HP
+  3   | Protect the King                       | -1d next roll
+  4   | Assist the King in a non-lethal action | +1d next roll
+5 & 6 | Make an enemy of the King suffer       | +1 hit
 
 
 
