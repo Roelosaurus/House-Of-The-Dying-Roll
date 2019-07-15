@@ -42,7 +42,7 @@ you must get to the sinful Emperor; whatever the cost!
 - **Paladin**: 5HP, may reroll any 2s  
 - **Templar**: 5HP, may reroll any 3s  
 
-**ROLL 2d6. SUBTRACT HIGHEST FROM LOWEST NUMBER.**  
+**ROLL 2d6. SUBTRACT LOWEST FROM HIGHEST NUMBER.**  
 **RESOLVE THE DIFFERENCE AS PER TABLE:**
  
  DIFF |                   ACTION               |    RESOLUTION        | CHANCE
