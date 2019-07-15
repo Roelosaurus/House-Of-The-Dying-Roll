@@ -47,7 +47,7 @@ you must get to the sinful Emperor; whatever the cost.
 
  DIFF |    %    |                  ACTION                |    RESOLUTION
 :---: | :-----: | -------------------------------------- | :----------------:
-  0   |    17%  | Divine intervention                    | roll 3d6, rhoose 2d6 
+  0   |    17%  | Divine intervention                    | roll 3d6, choose 2d6 
   1   |    28%  | Make a sacrifice for the King          | -1 hp
   2   |    22%  | Protect the King                       | -1 next diff*
   3   |    17%  | Assist the King in a non-lethal action | +1 next diff
