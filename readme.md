@@ -56,6 +56,9 @@ you must get to the sinful Emperor; whatever the cost!
 *&ast; 1-1=**1**, 0-1=**1***  
 *&ast;&ast; 5+1=**5***
 
+<!-- https://anydice.com/program/2bd5 -->
+
+
 
 ## • Emperor's Stronghold
  
