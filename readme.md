@@ -53,7 +53,7 @@ you must get to the sinful Emperor; whatever the cost.
   3   |    17%  | Assist the King in a non-lethal action | +1 next diff
 4 & 5 |  11%+6% | Make an enemy of the King suffer       | +1 success
 
-&ast; *1-1=1, 0-1=1*
+*&ast; 1-1=**1**, 0-1=**1***
 
 
 
