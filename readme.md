@@ -41,12 +41,9 @@ ROLL |  CLASS   | DIVINE NEED
 
 ### • Guard's Actions
 
- ROLL  | RESULT
+ DICE  | RESULT
 :----: | :----:
- 1 & 2 |  FAIL
-   3   |  X
-   4   |  X
- 5 & 6 | SUCCESS
+  Xd6  |  1s = Success
 
 
 
