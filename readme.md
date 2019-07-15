@@ -38,9 +38,9 @@ you must get to the sinful Emperor; whatever the cost.
 
 ## • Guard Classes & Actions
 
-- **Knight**: reroll 1s  
-- **Paladin**: reroll 2s  
-- **Templar**: reroll 3s  
+- **Knight**: may reroll any [1]s  
+- **Paladin**: may reroll any [2]s  
+- **Templar**: may reroll any [3]s  
 
 **ROLL 2d6. SUBTRACT HIGHEST FROM LOWEST NUMBER.**  
 **RESOLVE THE DIFFERENCE AS PER TABLE:**
