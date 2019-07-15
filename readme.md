@@ -35,9 +35,9 @@ Roll for
 
 ### • Guard Classes
 
--**Knight**:  Reroll 1s  
--**Paladin**: Reroll 2s  
--**Templar**: Reroll 3s  
+- **Knight**: Reroll 1s  
+- **Paladin**: Reroll 2s  
+- **Templar**: Reroll 3s  
 
 
 
