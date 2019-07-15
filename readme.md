@@ -28,18 +28,16 @@ you must get to the sinful Emperor; whatever the cost.
 
 ### • Gameplay
 
-Setup: roll to setup 
+Setup: roll to setup  
 Roll for 
 
 
 
 ### • Guard Classes
 
- CLASS  | SKILL
-:-----: | -----------
-Knight  |  Reroll 1s
-Paladin |  Reroll 2s
-Templar |  Reroll 3s
+-**Knight**:  Reroll 1s  
+-**Paladin**: Reroll 2s  
+-**Templar**: Reroll 3s  
 
 
 
@@ -47,7 +45,7 @@ Templar |  Reroll 3s
 
 Roll 2d6. Resolve both rolls.
 
- ROLL |   %   |                 ACTION                 |  RESOLUTION
+ ROLL |   %   |                 ACTION                 |   RESOLUTION
 :---: | :---: | -------------------------------------- | :------------:
 1 & 2 |  33%  | Make a sacrifice for the King          | -1H
   3   |  17%  | Protect the King                       | -1d next roll
@@ -60,9 +58,9 @@ Roll 2d6. Resolve both rolls.
 
 Roll 2d6. Subtract highest from lowest number.
 
- DIFF |   %   |                  ACTION                |      IMPACT
+ DIFF |   %   |                  ACTION                |    RESOLUTION
 :---: | :---: | -------------------------------------- | :----------------:
-  0   |  17%  | Divine intervention                  | +1 Success & +1HP
+  0   |  17%  | Divine intervention                    | +1 Success & +1HP
   1   |  28%  | Make a sacrifice for the King          | -1 HP
   2   |  22%  | Protect the King                       | -1 Next Diff
   3   |  17%  | Assist the King in a non-lethal action | +1 Next Diff
