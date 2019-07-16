@@ -71,5 +71,18 @@ ROLL  | OBSTACLE
 3 & 4 | XXX
 5 & 6 | XXX
 
-2. Dragonling baracks  
+2. Dragonling baracks
+
+ROLL  | OBSTACLE
+:---: | --------
+1 & 2 | XXX
+3 & 4 | XXX
+5 & 6 | XXX
+
 3. Emperor's throneroom
+
+ROLL  | OBSTACLE
+:---: | --------
+1 & 2 | XXX
+3 & 4 | XXX
+5 & 6 | XXX
