@@ -63,9 +63,10 @@ DIFF  |                   ACTION               |    RESOLUTION        | CHANCE
 ## • Emperor's Stronghold
  
 The Stronghold is made up out of 3 sections:  
-1. Breached entrance  
-ROLL  | OBSTACLE |
-:---: | -------- |
+1. Breached entrance
+
+ROLL  | OBSTACLE
+:---: | --------
 1 & 2 | XXX
 3 & 4 | XXX
 5 & 6 | XXX
