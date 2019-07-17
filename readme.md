@@ -30,9 +30,9 @@ you must get to the sinful Emperor; whatever the cost!
 
 ## • Gameplay
 
-1. Roll d6 to setup 3 Stronghold sections.  
-2. Roll d6 at start of each compartment for King's actions.  
-3. Roll 2d6 to resolve Guard's actions.
+**1.** Roll d6 to setup 3 Stronghold sections.  
+**2.** Roll d6 at start of each compartment for King's actions.  
+**3.** Roll 2d6 to resolve Guard's actions.
 
 
 
@@ -63,7 +63,7 @@ DIFF  |                   ACTION               |    RESOLUTION        | CHANCE
 ## • Emperor's Stronghold
  
 The Stronghold is made up out of 3 sections:  
-1. Breached entrance
+**1. Breached entrance**
 
 ROLL  | OBSTACLE
 :---: | --------
@@ -71,7 +71,7 @@ ROLL  | OBSTACLE
 3 & 4 | XXX
 5 & 6 | XXX
 
-2. Dragonling baracks
+**2. Dragonling baracks**
 
 ROLL  | OBSTACLE
 :---: | --------
@@ -79,7 +79,7 @@ ROLL  | OBSTACLE
 3 & 4 | XXX
 5 & 6 | XXX
 
-3. Emperor's throneroom
+**3. Emperor's throneroom**
 
 ROLL  | OBSTACLE
 :---: | --------
