@@ -86,3 +86,16 @@ ROLL  | OBSTACLE
 1 & 2 | XXX
 3 & 4 | XXX
 5 & 6 | XXX
+
+
+
+## • King's Actions
+
+ROLL  | Action
+:---: | --------
+  1   | XXX
+  2   | XXX
+  3   | XXX
+  4   | XXX
+  5   | XXX
+  6   | XXX
