@@ -31,7 +31,7 @@ you must get to the sinful Emperor; whatever the cost!
 ## • Gameplay
 
 **1.** Roll d6 to setup 3 Stronghold sections.  
-**2.** Roll d6 at start of each compartment for King's actions.  
+**2.** Roll d6 at start of each section for King's actions.  
 **3.** Roll 2d6 to resolve Guard's actions.
 
 
@@ -45,13 +45,13 @@ you must get to the sinful Emperor; whatever the cost!
 **ROLL 2d6. SUBTRACT LOWEST FROM HIGHEST NUMBER.**  
 **RESOLVE THE DIFFERENCE AS PER TABLE:**
  
-DIFF  |                   ACTION               |    RESOLUTION        | CHANCE
-:---: | -------------------------------------- | -------------------  | -----:
-  0   | Divine intervention                    | roll 3d6, choose 2d6 |  17%
-  1   | Make a sacrifice for the King          | -1 hp                |  28%
-  2   | Protect the King                       | -1 on next diff*     |  22%
-  3   | Assist the King in a non-lethal action | +1 on next diff**    |  17%
-4 & 5 | Make an enemy of the King suffer       | +1 success           | 11%+6% 
+DIFF  |                   ACTION               |    RESOLUTION
+:---: | -------------------------------------- | --------------------
+  0   | Divine intervention                    | roll 3d6, choose 2d6
+  1   | Make a sacrifice for the King          | -1 hp
+  2   | Protect the King                       | -1 on next diff*
+  3   | Assist the King in a non-lethal action | +1 on next diff**
+4 & 5 | Make an enemy of the King suffer       | +1 success
 
 *&ast; 1-1=**1**, 0-1=**1***  
 *&ast;&ast; 5+1=**5***
