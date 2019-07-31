@@ -64,7 +64,7 @@ DIFF  |                   ACTION               |    RESOLUTION        | CHANCE
  
 The Stronghold is made up out of 3 sections:  
 **1. Breached Entrance**  
-Successes required = amount of players
+Successes required = # players / 2 (rounded upwards)
 
 ROLL  | OBSTACLE
 :---: | --------
@@ -73,7 +73,7 @@ ROLL  | OBSTACLE
 5 & 6 | Patrolling sentrie takes up arms to try to stop you
 
 **2. Dragonling Baracks**  
-Successes required = amount of players
+Successes required = # players
 
 ROLL  | OBSTACLE
 :---: | --------
@@ -82,7 +82,7 @@ ROLL  | OBSTACLE
 5 & 6 | XXX
 
 **3. Emperor's Throneroom**  
-Successes required = amount of players X 2
+Successes required = # players X 2
 
 ROLL  | OBSTACLE
 :---: | --------
