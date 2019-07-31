@@ -64,14 +64,16 @@ DIFF  |                   ACTION               |    RESOLUTION        | CHANCE
  
 The Stronghold is made up out of 3 sections:  
 **1. Breached entrance**
+Successes required = amount of players
 
 ROLL  | OBSTACLE
 :---: | --------
-1 & 2 | XXX
-3 & 4 | XXX
-5 & 6 | XXX
+1 & 2 | Emperial workers, startled by the sudden breach, try to obstruct your entrance
+3 & 4 | First attempt fails, you retry breaching the stronghold via another method
+5 & 6 | Patrolling sentrie takes up arms to try to stop you
 
 **2. Dragonling baracks**
+Successes required = amount of players
 
 ROLL  | OBSTACLE
 :---: | --------
@@ -80,6 +82,7 @@ ROLL  | OBSTACLE
 5 & 6 | XXX
 
 **3. Emperor's throneroom**
+Successes required = amount of players X 2
 
 ROLL  | OBSTACLE
 :---: | --------
