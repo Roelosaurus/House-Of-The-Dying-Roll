@@ -70,7 +70,7 @@ ROLL  | OBSTACLE
 :---: | --------
 1 & 2 | Emperial workers, startled by the sudden breach, try to obstruct your entrance
 3 & 4 | First attempt fails, you retry breaching the stronghold via another method
-5 & 6 | Patrolling sentrie takes up arms to try to stop you
+5 & 6 | Patrolling sentries takes up arms to try to stop you
 
 **2. Dragonling Baracks**  
 Successes required = # players
