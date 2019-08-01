@@ -26,6 +26,7 @@ img {
 body {
     background-color: #DE243C;
     padding-bottom: 100px;
+    overflow: hidden;
     font-family: 'Ubuntu', sans-serif;
     color: #FEFAE2;
     opacity: 0.95;
