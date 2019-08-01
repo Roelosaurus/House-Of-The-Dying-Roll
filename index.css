@@ -5,6 +5,7 @@ White: #FEFAE2
 Purple: #792060
 */
 
+.element::-webkit-scrollbar { width: 0 !important }
 
 ::selection {
     background: #792060;
