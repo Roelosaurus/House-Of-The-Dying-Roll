@@ -40,12 +40,14 @@ div {
 
 .intro {
   font-size: 22px;
+  font-weight: bold;
   margin-bottom: 150px;
+  
 }
 
 .title {
-  font-weight: 900;
   font-size: 20px;
+  font-weight: bold;
   margin-bottom: -15px;
   text-align: left;
 }
