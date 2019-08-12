@@ -38,7 +38,7 @@ div {
 
 .intro {
   font-size: 22px;
-  margin-bottom: 120px;
+  margin-bottom: 150px;
 }
 
 .title {
@@ -51,4 +51,5 @@ div {
 .text {
   font-size: 18px;
   text-align: left;
+  margin-bottom: 50px;
 }
