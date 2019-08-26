@@ -82,7 +82,7 @@ ROLL  | OBSTACLE
 5 & 6 | A handfull of well-armed Dragonling luitenants charge at you.
 
 **3. Emperor's Throneroom**  
-Successes required = # players X 2
+Successes required = # players x 2
 
 ROLL  | OBSTACLE
 :---: | --------
