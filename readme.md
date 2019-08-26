@@ -70,7 +70,7 @@ ROLL  | OBSTACLE
 :---: | --------
 1 & 2 | Emperial workers, startled by the sudden breach, try to obstruct your entrance.
 3 & 4 | First attempt fails, you retry breaching the stronghold via another method.
-5 & 6 | Patrolling sentries take up arms to try to stop you.
+5 & 6 | Patrolling sentries are coming to investigate the breach.
 
 **2. Dragonling Baracks**  
 Successes required = # players
@@ -79,7 +79,7 @@ ROLL  | OBSTACLE
 :---: | --------
 1 & 2 | Platoon of Dragonling cadets are training, they swarm you.
 3 & 4 | Upon entering the gates lock, Dragonling marksmen take aim.
-5 & 6 | XXX
+5 & 6 | A handfull of well-armed Dragonling luitenants charge at you.
 
 **3. Emperor's Throneroom**  
 Successes required = # players X 2
