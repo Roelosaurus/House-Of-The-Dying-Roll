@@ -96,9 +96,9 @@ ROLL  | OBSTACLE
 
 ROLL  | Action
 :---: | --------
-  1   | XXX
-  2   | XXX
-  3   | XXX
-  4   | XXX
-  5   | XXX
-  6   | XXX
+  1   | The King uses rhetoric to advance.
+  2   | The King tries to hide from danger. 
+  3   | The King leverages the enviroment to his advantage.
+  4   | The King bolsters his defence.
+  5   | The King 
+  6   | The King charges forward, weapon raised.
