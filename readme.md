@@ -86,9 +86,9 @@ Successes required = # players X 2
 
 ROLL  | OBSTACLE
 :---: | --------
-1 & 2 | XXX
-3 & 4 | XXX
-5 & 6 | XXX
+1 & 2 | 
+3 & 4 | The Throneroom is empty, find and end The Emperor.
+5 & 6 | Unsurprised and ready-to-fight the Emperor welcomes you.
 
 
 
