@@ -82,11 +82,11 @@ ROLL  | OBSTACLE
 5 & 6 | A handfull of well-armed Dragonling luitenants charge at you.
 
 **3. Emperor's Throneroom**  
-Successes required = # players x 2
+Successes required = # players + 2
 
 ROLL  | OBSTACLE
 :---: | --------
-1 & 2 | The Emperor has 
+1 & 2 | The Emperor is asleep on his throne, you can sneak in.
 3 & 4 | The Throneroom is empty, find and end The Emperor.
 5 & 6 | Unsurprised and ready-to-fight the Emperor welcomes you.
 
@@ -100,5 +100,5 @@ ROLL  | Action
   2   | The King tries to hide from danger. 
   3   | The King leverages the enviroment to his advantage.
   4   | The King bolsters his defence.
-  5   | The King 
+  5   | The King commands his guard to charge.
   6   | The King charges forward, weapon raised.
