@@ -53,7 +53,7 @@ DIFF  |                   ACTION               |    RESOLUTION
   3   | Assist the King in a non-lethal action | +1 on next diff**
 4 & 5 | Make an enemy of the King suffer       | +1 success
 
-*&ast; 1-1=**1**, 0-1=**1***  
+*&ast; 1-1=**1** & 0-1=**1***  
 *&ast;&ast; 5+1=**5***
 
 <!-- https://anydice.com/program/2bd5 -->
