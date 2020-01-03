@@ -81,8 +81,10 @@ td {
   border-collapse: collapse;
   padding: 10px;
   font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
   color: #fefae2;
   opacity: 0.95;
+  
 }
 
 td {
