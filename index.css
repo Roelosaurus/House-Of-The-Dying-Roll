@@ -37,7 +37,7 @@ div {
 }
 
 .intro {
-  font-size: 22px;
+  font-size: 24px;
   font-weight: bold;
   margin-bottom: 150px;
 }
@@ -71,6 +71,12 @@ div {
   margin-top: 10px;
 }
 
+.text5 {
+  font-size: 14px;
+  text-align: left;
+  margin-top: -30px;
+}
+
 caption {
   text-align: left;
 }
@@ -81,10 +87,9 @@ td {
   border-collapse: collapse;
   padding: 10px;
   font-family: "Ubuntu", sans-serif;
-  font-size: 16px;
+  font-size: 17px;
   color: #fefae2;
   opacity: 0.95;
-  
 }
 
 td {
